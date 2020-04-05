@@ -1,4 +1,5 @@
-# listofnobar
+# list of no bar
+当然，断成list of nobar也可以吧（
 
 真夏夜之银梦吧枪毙名单与转移记录。
 
