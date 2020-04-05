@@ -32,6 +32,6 @@ jobs:
         ls >> ../PeopleList.txt
         cd ..
         cat ./PeopleList.txt
-        git commit -a
+        git commit -am Auto generated.
         git push
         echo test, and deploy your project.
