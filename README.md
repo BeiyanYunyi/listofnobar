@@ -2,11 +2,9 @@
 当然，断成list of nobar也可以吧（
 
 真夏夜之银梦吧枪毙名单与转移记录。
-
 请Watch/Star本repo，随时将成员变动pull request到本repo。
 
 [点此进入成员列表，缓存更新周期为1天](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
-
 [点此查看/编辑成员列表（实时）](https://github.com/lixiang810/listofnobar/blob/master/PeopleList.txt "coco")
 
 事记
