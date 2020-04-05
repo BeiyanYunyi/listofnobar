@@ -4,7 +4,7 @@
 
 请Watch/Star本repo，随时将成员变动pull request到本repo。
 
-[点此进入成员列表](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
+[点此进入成员列表，缓存更新周期为1天](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
 
 事记
 ----
