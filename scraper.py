@@ -44,7 +44,7 @@ for cnt in range(1, max_page + 1):
 print("以下为新增人员:")
 with open("PeopleList.txt", "r+", encoding="UTF-8") as f:
   people_list = []
-
+  print("", file=f)
   #去掉\n
   for i in f.readlines():
     people_list.append(i.strip())
@@ -58,7 +58,11 @@ with open("PeopleList.txt", "r+", encoding="UTF-8") as f:
 ls = []
 with open("PeopleList.txt", 'r', encoding="UTF-8") as f:
     ls = f.readlines()
-    ls.sort()
+
+ls.sort()
+for i in ls:
+  if i.strip() == "":
+    ls.remove(i)
 
 with open("PeopleList.txt", 'w', encoding="UTF-8") as f:
     f.writelines(ls)
