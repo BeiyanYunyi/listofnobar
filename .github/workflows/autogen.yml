@@ -30,6 +30,8 @@ jobs:
         rm ./PeopleList.txt
         cd PeopleList
         ls >> ../PeopleList.txt
-        git commit
+        cd ..
+        cat ./PeopleList.txt
+        git commit -a
         git push
         echo test, and deploy your project.
