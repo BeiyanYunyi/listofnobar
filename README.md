@@ -1,11 +1,19 @@
-# list of no bar
-当然，断成list of nobar也可以吧（
+# listofnobar
 
 真夏夜之银梦吧枪毙名单与转移记录。
+
 请Watch/Star本repo，随时将成员变动pull request到本repo。
 
 [点此进入成员列表，缓存更新周期为1天](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
+
 [点此查看/编辑成员列表（实时）](https://github.com/lixiang810/listofnobar/blob/master/PeopleList.txt "coco")
+
+含义
+----
+
+listofnobar，可以是list of no bar（之吧清单）也可以是list of nobar（无吧清单）
+
+一为本吧，二意流浪。
 
 事记
 ----
