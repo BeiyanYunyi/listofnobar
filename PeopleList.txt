@@ -1,7 +1,5 @@
-<head>
 注意：请使用ID而非昵称
-</head>
-<body>
+
 黎想1
 长宗我部芝麻糊
 矢泽妮可酱
@@ -10,4 +8,3 @@ hanandsong
 狂牛默秒全
 dwqkh
 22hexagon
-</body>
