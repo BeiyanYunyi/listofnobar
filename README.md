@@ -2,9 +2,9 @@
 
 真夏夜之银梦吧枪毙名单与转移记录。
 
-请关注本repo，随时将成员变动pull request到本repo。
+请Watch/Star本repo，随时将成员变动pull request到本repo。
 
-[点此进入成员列表](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
+[点此进入成员列表](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar@master/PeopleList.txt "点此进入成员列表")
 
 事记
 ----
