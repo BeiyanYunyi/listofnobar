@@ -4,9 +4,9 @@
 
 请Watch/Star本repo，随时将成员变动pull request到本repo。**不要直接修改PeopleList.txt，那是自动生成的**
 
-[点此进入成员列表，缓存更新周期为1天](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
+[点此进入成员列表（缓存更新周期为1天）](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
 
-[点此查看/编辑成员列表（实时）](https://github.com/lixiang810/listofnobar/blob/master/PeopleList.txt "coco")
+[点此查看成员列表（实时）](https://github.com/lixiang810/listofnobar/blob/master/PeopleList.txt "coco")
 
 含义
 ----
