@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import ast 
 
-url = "https://tieba.baidu.com/p/6597831409"
+url = "https://tieba.baidu.com/p/6598964667"
 lst = ""
 max_page = 0
 ids = set()
