@@ -27,6 +27,6 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
-        python3 ./Scraper.py
+        python3 ./scraper.py
         git commit -am "Auto generated."
         git push
