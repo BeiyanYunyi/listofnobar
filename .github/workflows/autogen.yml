@@ -4,10 +4,12 @@ name: AutoGenerate
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on: 
-  push
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '* */1 * * *'
+    # 每小时自动运行脚本更新名单
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build:
     # The type of runner that the job will run on
@@ -18,16 +20,16 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    # Runs a single command using the runners shell
-    - name: config
+    # Git配置与软件包安装
+    - name: Config
       run: |
         git config --global user.email "lixiang3@outlook.com"
         git config --global user.name "lixiang810"
         python3 -m pip install --upgrade pip setuptools wheel
         pip3 install bs4 lxml
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
+    # 爬取、生成与commit
+    - name: Generate
       run: |
         python3 ./scraper.py
         git commit -am "Auto generated."
