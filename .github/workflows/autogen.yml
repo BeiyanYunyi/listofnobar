@@ -24,7 +24,7 @@ jobs:
         git config --global user.email "lixiang3@outlook.com"
         git config --global user.name "lixiang810"
         python3 -m pip install --upgrade pip setuptools wheel
-        pip3 install bs4
+        pip3 install bs4 lxml
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
