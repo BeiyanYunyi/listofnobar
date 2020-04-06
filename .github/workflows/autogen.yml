@@ -23,6 +23,7 @@ jobs:
       run: |
         git config --global user.email "lixiang3@outlook.com"
         git config --global user.name "lixiang810"
+        python3 -m pip install --upgrade pip setuptools wheel
         pip3 install bs4
 
     # Runs a set of commands using the runners shell
