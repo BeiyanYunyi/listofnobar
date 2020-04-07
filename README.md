@@ -1,5 +1,6 @@
 # listofnobar
-
+<a title="Watch" target="_blank" href="https://github.com/lixiang810/listofnobar/watchers"><img src="https://img.shields.io/github/watchers/lixiang810/listofnobar.svg?label=Watchers&style=social"></a>  
+<a title="GitHub Star" target="_blank" href="https://github.com/lixiang810/listofnobar/stargazers"><img src="https://img.shields.io/github/stars/lixiang810/listofnobar.svg?label=Stars&style=social"></a>  
 真夏夜之银梦吧枪毙名单与转移记录。[白话文使用教程（已作废）](https://github.com/lixiang810/listofnobar/wiki)
 
 请Watch/Star本repo。**PeopleList.txt由爬虫生成，留名请前往相扑吧留名帖**
