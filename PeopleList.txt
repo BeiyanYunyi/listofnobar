@@ -30,6 +30,7 @@ ALXlc
 AirbusA340neo
 Anstick
 CWHALL
+D_HERO_bloo_D_
 Death_or_life
 Dec3000
 ECHOECHOEND
@@ -202,6 +203,7 @@ zhangyunsong4
 坏心的旅行家
 墨水16号
 多吃鸭腿跑得快
+大侦探猴耳磨丝
 天枰嘿杰克
 天行云渐
 威叔再世
