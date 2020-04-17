@@ -3,7 +3,7 @@
 <a title="GitHub Star" target="_blank" href="https://github.com/lixiang810/listofnobar/stargazers"><img src="https://img.shields.io/github/stars/lixiang810/listofnobar.svg?label=Stars&style=social"></a>  
 真夏夜之银梦吧枪毙名单与转移记录。[白话文使用教程（已作废）](https://github.com/lixiang810/listofnobar/wiki)
 
-请Watch/Star本repo。**PeopleList.txt由爬虫生成，留名请前往[相扑吧留名帖](https://tieba.baidu.com/p/6598964667)**
+请Watch/Star本repo。**PeopleList.txt由爬虫生成，留名请前往[相扑吧留名帖（已停用）](https://tieba.baidu.com/p/6598964667)**
 
 [点此进入成员列表（快速，缓存更新周期为1天）](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")
 
