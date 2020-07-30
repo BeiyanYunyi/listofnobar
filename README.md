@@ -7,7 +7,7 @@
 
 含义
 ----
-listofnobar，可以是list of の bar（之吧清单）也可以是list of no bar（无吧清单）  
+listofnobar，可以是list of の bar（之 / 的吧清单）也可以是list of no bar（无吧清单）  
 一为本吧，二意流浪。  
 
 当前推荐聚集地
