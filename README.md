@@ -1,7 +1,7 @@
 # listofnobar 3 期
 <a title="Watch" target="_blank" href="https://github.com/lixiang810/listofnobar/watchers"><img src="https://img.shields.io/github/watchers/lixiang810/listofnobar.svg?label=Watchers&style=social"></a> <a title="GitHub Star" target="_blank" href="https://github.com/lixiang810/listofnobar/stargazers"><img src="https://img.shields.io/github/stars/lixiang810/listofnobar.svg?label=Stars&style=social"></a>  
 真夏夜之银梦吧 / 真夏夜的银梦吧枪毙名单与转移记录。[白话文使用教程（已作废）](https://github.com/lixiang810/listofnobar/wiki)  
-请Watch/Star本repo。**PeopleList.txt由爬虫生成，留名请前往[梦吧留名帖](https://tieba.baidu.com/p/6845824421)**  
+请Watch/Star本repo。**PeopleList.txt由爬虫生成，留名请前往[梦吧留名帖](https://tieba.baidu.com/p/6980666099)**  
 [点此进入成员列表（快速）](https://cdn.jsdelivr.net/gh/lixiang810/listofnobar/PeopleList.txt "点此进入成员列表")  
 [点此查看成员列表（慢速）](https://github.com/lixiang810/listofnobar/blob/master/PeopleList.txt "coco")  
 
